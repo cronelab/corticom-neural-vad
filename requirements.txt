@@ -1,0 +1,14 @@
+numpy==1.26.3
+scikit-learn==1.4.0
+matplotlib==3.8.2
+tqdm==4.66.1
+scipy==1.11.4
+pydub==0.25.1
+Levenshtein==0.25.0
+h5py==3.10.0
+tables==3.9.2
+seaborn==0.13.2
+torchinfo==1.8.0
+pyzmq==25.0.0
+Cython==3.0.8
+statsmodels==0.14.4

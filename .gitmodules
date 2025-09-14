@@ -1,0 +1,3 @@
+[submodule "TICC"]
+	path = TICC
+	url = git@github.com:davidhallac/TICC.git
